@@ -1,8 +1,8 @@
-\# Project History Rebuild
+# Project History Rebuild
 
 
 
-\## Vision
+## Vision
 
 This project aims to rebuild a reliable, production-ready application with
 
